@@ -1,6 +1,13 @@
 # CSCI-561--Searching-techniques
 This project was completed as a part of my coursework for the course CSCI 561: Foundations in Artificial Intelligence at the University of Southern California, Fall 2019.
 
+## What it is about:
+This python program considers a Mars Rover that can only move in a 2D matrix, and can move to the neighbors where the elevation is within a given degree. I have implemented 3 different functions that calculate the path for traversal from the given start state to the goal state while satisfying the constraints and minimising cost, ie, finding the *optimal path* using the following AI search techniques:
+
+* Breadth-First Search
+* Uniform Cost Search
+* A* search
+
 ## Repository structure:
 
 * **question.pdf** : contains the assignment description, including the description, and the input and output format specification.
