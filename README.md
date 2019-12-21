@@ -18,3 +18,8 @@ This python program considers a Mars Rover that can only move in a 2D matrix, an
 * **myrun.sh** : run this sh file on system to automatically run the solution.py file for the 50 testcases given in the folder 
 * **hw1_check.py** : called by myrun.sh to check the validity of the outputs received vs the expected outputs
 
+## Running the code
+
+* **running for the 50 test cases**: Type `sh myrun.sh` in terminal after cloning the repository. Store the output to a file/folder of your choosing
+  
+ * **running for a custom test case**: Specify the input file and the output file in the **main** function of **solution.py**
